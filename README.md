@@ -86,7 +86,7 @@ You'll need to display the following:
 For tier 3 you MUST not use the provided API from tier 2. You must develop a backend to your application. This will be to produce events with a:
 
 - Type, these could be positive or negative catagories (i.e. disaster, gift, surprise...)
-- Title, to summerise the event
+- Title, to summarize the event
 - Description, using the type and title to explain the event
 - Impact, on pets Health/Hunger/Happiness
 
